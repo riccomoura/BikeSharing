@@ -14,7 +14,7 @@ Exibir gráficos com padrões de consumo;
 Mostrar correlações de dados como condições climáticas e padrões no histórico de uso das bicicletas a partir das variáveis;
 Extra: criar um modelo preditivo para calcular a demanda do serviço afim de sugerir tomada de decisões a cerca do modelo de negócio e sua expansão ou retração futura.
 Progressão do desenvolvimento
-Etapa 1: Exibição de Dados
-Etapa 2: Análise e Correlação
-Etapa 3: Exibição de gráficos
-Etapa 4: Conclusões finais ou Modelo Preditivo
+ Etapa 1: Exibição de Dados
+ Etapa 2: Análise e Correlação
+ Etapa 3: Exibição de gráficos
+ Etapa 4: Conclusões finais ou Modelo Preditivo
