@@ -18,5 +18,13 @@ Progressão do desenvolvimento
  - Importar base de dados
  - Concluir premissas básicas
  ## Etapa 2: Análise e Correlação
+  - Exemplo de dado obtido e manipulado em ambos bancos de dados importados. Média da velocidade do vento no período de coleta de dados da plataforma.
+  - Métricas de locação
+  - Análise Top -> Down. Correlação entre o número total de locações realizadas e a estação do ano
  ## Etapa 3: Exibição de gráficos
+  - Importando matplotlib para exibição de gráficos
+  - Criando um novo dataframe a partir da Tabela Train
+  - Criando o gráfico a partir do novo dataframe
  ## Etapa 4: Conclusões finais ou Modelo Preditivo
+  - Durante as estações mais quentes e secas há substancial aumento da demanda
+  - Sugere-se maior empenho no marketing com foco em fidelização
